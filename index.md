@@ -1,8 +1,9 @@
+
 ##  Portfolio
 
-You can use the [editor on GitHub](https://github.com/Waleapollo/Wale-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In this project I wanted to explore and raise questions on the racial disparity that occurs in the UK and use the power of data to understand where these issues make occur.
+I gathered goverment data from gov.uk regadring this question, explored and visualized it using a variation of graphs. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -25,6 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![dumbbell chart stop and search](https://user-images.githubusercontent.com/86885590/124397397-773e1900-dd07-11eb-8e94-91a38e9faca0.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
