@@ -1,14 +1,14 @@
 
 ##  Portfolio
 
-In this project I wanted to explore and raise questions on the racial disparity that occurs in the UK and use the power of data to understand where these issues make occur.
-I gathered goverment data from various sources regadring this question, explored and visualized it using a variation of graphs. 
+Present is my Data science portfolio that is filled with independent, self-research projects that I have taken interest in and have taken pride in sharing.
 
 
 ### Project 1: Racial disparity in the UK
 
 In this project I wanted to explore and raise questions on the racial disparity that occurs in the UK and use the power of data to understand where these issues make occur.
-I gathered goverment data from various sources regadring this question, explored and visualized it using a variation of graphs.
+I gathered goverment data from various sources ( predominantly gov.uk ) regadring this question, explored and visualized it using a variation of graphs.
+
 
 
 ![dumbbell chart stop and search](https://user-images.githubusercontent.com/86885590/124397397-773e1900-dd07-11eb-8e94-91a38e9faca0.png)
@@ -35,6 +35,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Waleapollo/Wale-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ Check out my [Linkedin](https://www.linkedin.com/in/wale-fagbamila) 
