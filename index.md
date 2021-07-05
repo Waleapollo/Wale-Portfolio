@@ -23,6 +23,11 @@ I produced a Barchart that displays the percentage each ethnic group composition
 
 ![blackstop](https://user-images.githubusercontent.com/86885590/124397595-af922700-dd08-11eb-9b19-d5d4713f5db3.png)
 
+This multiple plot line graph brings a spotlight on stop and search issues that occur within the UK. 
+
+Does stop and search have a direct impact on the relationship that different ethnic groups have with the police?
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
