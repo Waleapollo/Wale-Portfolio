@@ -1,13 +1,13 @@
 
 ##  Portfolio
 
-Present is my Data science portfolio that is filled with independent, self-research projects that I have taken interest in and have taken pride in sharing.
+Below is my Data science portfolio that is filled with independent, self-research projects that I have taken interest in and have great pride in sharing.
 
 
 ### Project 1: Racial disparity in the UK
 
-In this project I wanted to explore and raise questions on the racial disparity that occurs in the UK and use the power of data to understand where these issues make occur.
-I gathered goverment data from various sources ( predominantly gov.uk ) regadring this question, explored and visualized it using a variation of graphs.
+In this project I wanted to explore and raise questions on the racial disparity that occurs in the UK and use the power of data to understand where these issues may occur.
+I gathered goverment data from various sources ( predominantly gov.uk ) regadring this question, explored, wrangled and visualized it using a variation of graphs all within R
 
 
 
