@@ -31,7 +31,11 @@ Does stop and search have a direct impact on the relationship that different eth
 
 ### Conclusion
 
-This project has been of great signficance to me due to it being one of my first independent projects and also based on its personal content. 
+This project has been of great signficance to me due to it being one of my first independent projects and also based on its personal content. After analysing data regarding the difference in stop and search rates between black and white people there was clear inconsistency in these figures considering that black people consist of 3% of the UK population.
+
+Then I looked into the composition of various ethnic groups in the UK because we must attempt to see if this indirectly or directly can has an affect on the relationships with the public and again disparities were found. Thus with the information and insight that we have gained into this solutions can be draw up from data that has always existed. One solution can be the introduction and diversification of the police force within the UK by introducing more ethnic minorities into these positions. This can have a direct affect on public relations due to the fact that stop and search disproportion will reduce and become more balanced as there is less chance for stereotypes to be enforced.  
+
+
 
 
 ### Contact
