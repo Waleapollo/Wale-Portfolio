@@ -29,11 +29,10 @@ Does stop and search have a direct impact on the relationship that different eth
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Conclusion
 
-### Jekyll Themes
+This project has been of great signficance to me due to it being one of my first independent projects and also based on its personal content. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Waleapollo/Wale-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
